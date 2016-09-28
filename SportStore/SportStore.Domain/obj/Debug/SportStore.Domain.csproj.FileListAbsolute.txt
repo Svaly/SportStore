@@ -21,3 +21,26 @@ C:\Users\Rafal\Documents\Visual Studio 2015\Projects\SportStore\SportStore.Domai
 C:\Users\Rafal\Documents\Visual Studio 2015\Projects\SportStore\SportStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\Rafal\Documents\Visual Studio 2015\Projects\SportStore\SportStore.Domain\bin\Debug\EntityFramework.xml
 C:\Users\Rafal\Documents\Visual Studio 2015\Projects\SportStore\SportStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rafal\Documents\GitHub\SportStore\SportStore\SportStore.Domain\bin\Debug\SportStore.Domain.dll.config
+C:\Users\Rafal\Documents\GitHub\SportStore\SportStore\SportStore.Domain\bin\Debug\SportStore.Domain.dll
+C:\Users\Rafal\Documents\GitHub\SportStore\SportStore\SportStore.Domain\bin\Debug\SportStore.Domain.pdb
+C:\Users\Rafal\Documents\GitHub\SportStore\SportStore\SportStore.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Rafal\Documents\GitHub\SportStore\SportStore\SportStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rafal\Documents\GitHub\SportStore\SportStore\SportStore.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Rafal\Documents\GitHub\SportStore\SportStore\SportStore.Domain\bin\Debug\System.Web.Helpers.dll
+C:\Users\Rafal\Documents\GitHub\SportStore\SportStore\SportStore.Domain\bin\Debug\System.Web.Mvc.dll
+C:\Users\Rafal\Documents\GitHub\SportStore\SportStore\SportStore.Domain\bin\Debug\System.Web.Razor.dll
+C:\Users\Rafal\Documents\GitHub\SportStore\SportStore\SportStore.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Rafal\Documents\GitHub\SportStore\SportStore\SportStore.Domain\bin\Debug\System.Web.WebPages.dll
+C:\Users\Rafal\Documents\GitHub\SportStore\SportStore\SportStore.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Rafal\Documents\GitHub\SportStore\SportStore\SportStore.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Rafal\Documents\GitHub\SportStore\SportStore\SportStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rafal\Documents\GitHub\SportStore\SportStore\SportStore.Domain\bin\Debug\System.Web.Helpers.xml
+C:\Users\Rafal\Documents\GitHub\SportStore\SportStore\SportStore.Domain\bin\Debug\System.Web.Mvc.xml
+C:\Users\Rafal\Documents\GitHub\SportStore\SportStore\SportStore.Domain\bin\Debug\System.Web.Razor.xml
+C:\Users\Rafal\Documents\GitHub\SportStore\SportStore\SportStore.Domain\bin\Debug\System.Web.WebPages.xml
+C:\Users\Rafal\Documents\GitHub\SportStore\SportStore\SportStore.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Rafal\Documents\GitHub\SportStore\SportStore\SportStore.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Rafal\Documents\GitHub\SportStore\SportStore\SportStore.Domain\obj\Debug\SportStore.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Rafal\Documents\GitHub\SportStore\SportStore\SportStore.Domain\obj\Debug\SportStore.Domain.dll
+C:\Users\Rafal\Documents\GitHub\SportStore\SportStore\SportStore.Domain\obj\Debug\SportStore.Domain.pdb
