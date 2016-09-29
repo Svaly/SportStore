@@ -10,17 +10,17 @@ namespace SportStore.WebUI.Controllers
 {
     public class NavController : Controller
     {
-        private IProductRepository repository;
+        private IProductRepository productRepository;
 
         public NavController(IProductRepository repositoryParam)
         {
-            repository = repositoryParam;
+            productRepository = repositoryParam;
         }
 
         public PartialViewResult Menu(string category=null)
         {
             ViewBag.SelectedCategory = category;
-            IEnumerable<string> categories = repository.Products
+            IEnumerable<string> categories = productRepository.Products
                                             .Select(x => x.Category)
                                               .Distinct()
                                          .OrderBy(x => x);
